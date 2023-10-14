@@ -18,7 +18,7 @@ Users can enter a location to view weather information for that area. The applic
 The Weather Project was created as a spare time project for learning purposes. The developer was inspired by ASMR Programming and wanted to create a similar project to practice their coding skills.
 
 ## Installation
-To use the Weather Project, simply clone the repository and open the index.html file in a web browser.
+To use the Weather Project, simply clone the repository, replace 'YOUR API KEY' with your OpenWeatherMap API KEY in index.js file and open the index.html file in a web browser.
 
 ## Usage
 Users can enter a location in the search bar and press the "Get Weather" button to view weather information for that region. The application will display custom images and weather data for the selected location.
